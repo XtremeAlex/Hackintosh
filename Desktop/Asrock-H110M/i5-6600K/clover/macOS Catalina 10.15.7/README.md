@@ -1,5 +1,5 @@
 <div style="text-align:center">
-<img width="360" alt="logo_kubernates" src="_img/hackintosh-logo.jpg">
+<img width="500" alt="logo_kubernates" src="_img/hackintosh-logo.jpg">
 </div>
 
 # Hackintosh macOS Catalina 10.15.7
