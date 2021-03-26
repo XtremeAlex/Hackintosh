@@ -8,6 +8,7 @@
 <img width="720" alt="img_neofetch" src="_img/neofetch.png">
 </div>
 
+
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
