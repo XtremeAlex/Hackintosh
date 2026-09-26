@@ -56,6 +56,10 @@ Questo repository raccoglie configurazioni EFI, note e riferimenti per costruire
 - [XLNC](https://github.com/naveenkrdy) for Adobe patches for AMD CPUs
 - [AMD-OSX Community](https://amd-osx.com) for support while making my Hackintosh
 
+## License
+
+Distribuito sotto licenza [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE). Puoi condividere e adattare il materiale, anche commercialmente, a condizione di citare l'autore.
+
 ## Contatti
 
 Andrei Alexandru Dabija — [LinkedIn](https://www.linkedin.com/in/andrei-alexandru-dabija/) — [github.com/XtremeAlex](https://github.com/XtremeAlex)
